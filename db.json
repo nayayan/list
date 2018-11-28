@@ -79,6 +79,39 @@
               }
         ]
     },
+    "set":
+    [
+      {
+              "id": 1,
+              "category": "1",
+              "provider": "2",
+              "name": "Élément de liste 1"
+      },
+      {
+              "id": 2,
+              "category": "2",
+              "provider": "1",
+              "name": "Élément de liste 2"
+      },
+      {
+              "id": 3,
+              "category": "2",
+              "provider": "2",
+              "name": "Élément de liste 3"
+      },
+      {
+              "id": 4,
+              "category": "3",
+              "provider": "1",
+              "name": "Élément de liste 4"
+      },
+      {
+              "id": 5,
+              "category": "4",
+              "provider": "3",
+              "name": "Élément de liste 5"
+      }
+    ],
     "profile":
     {
             "name": "typicode"
